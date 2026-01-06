@@ -1,24 +1,43 @@
-# 👨‍💻 About Me
+👋 Hi, I'm a builder focused on AI-powered creative tools.
 
-Welcome to my profile! I am a developer passionate about **Generative AI**, **Video Production Tools**, and **Web Applications**.
-
-## 🌟 My Portfolio
-
-### 🎬 AI Video & Filmmaking (Flagship)
-* [**Filmgine.com**](https://filmgine.com) - The Ultimate **AI Story Generator & Video Maker**. Transform ideas into complete video productions with professional scripts and storyboards.
-* [**Filmgine.ai**](https://filmgine.ai) - Advanced AI solutions for film production. From script to screen in minutes.
-* [**AIFilmmaker.fun**](https://aifilmmaker.fun) - Creative AI tools making filmmaking accessible to everyone.
-* [**LumaStoryAI.com**](https://lumastoryai.com) - **AI Story Generator**. Visualize characters and scenes instantly with consistent styles.
-
-### 🤖 Generative AI & Experiments
-* [**Genie3.fun**](https://genie3.fun) - **Genie 3 World Model** showcase. Generate interactive 3D worlds and environments from text prompts.
-* [**NsfwAI.fun**](https://nsfwai.fun) - Interactive AI character chat and roleplay experiments.
-
-### 🌐 Web Utilities & Entertainment
-* [**TkRedNote.com**](https://tkrednote.com) - **Xiaohongshu (RedNote) & TikTok** tools. Analytics and guides for content creators to grow their global audience.
-* [**FreeGamesPit.com**](https://freegamespit.com) - Play 1500+ **Free Online Games**. Instant play browser games without downloads (Action, Racing, Puzzle).
+I work on products at the intersection of **Generative AI, storytelling, and video creation**.
+My current focus is building tools that help creators turn ideas into structured stories,
+storyboards, and videos more efficiently.
 
 ---
-### 📫 Connect with Me
-Feel free to explore my repositories or visit my websites above!
 
+## 🚀 Flagship Project
+
+🎬 **Filmgine**  
+An AI-powered platform for filmmakers and content creators to generate stories,
+scripts, and storyboards for video production.
+
+- Website: https://filmgine.com  
+- Tech & Platform: https://github.com/dreamcrafterMaker/filmgine-platform  
+- API Examples: https://github.com/dreamcrafterMaker/filmgine-api-examples  
+- Demo Tools: https://github.com/dreamcrafterMaker/ai-film-maker-demo  
+
+---
+
+## 🧪 Experiments & Side Projects
+
+These projects explore different aspects of generative AI and creative tooling:
+
+- **AI Film Tools**  
+  AIFilmmaker.fun · LumaStoryAI.com
+
+- **Generative AI Experiments**  
+  Genie3.fun · NsfwAI.fun
+
+- **Web Utilities & Entertainment**  
+  TkRedNote.com · FreeGamesPit.com
+
+---
+
+## 📌 What I'm Interested In
+
+- Generative AI for storytelling & video
+- AI-assisted creative workflows
+- Building and scaling AI products
+
+Feel free to explore the repositories or try the tools above.
